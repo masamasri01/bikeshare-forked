@@ -131,7 +131,7 @@ def display_raw_data(df):
     """Displays raw data 5 rows at a time upon user request."""
     i = 0
     while True:
-        raw = input("\n Do you want to see 5 lines of raw data? Enter yes or no. \n").lower()
+        raw = input("\n Do you like to see 5 lines of raw data? Enter yes or no. \n").lower()
         if raw != 'yes':
             break
         print(df.iloc[i:i+5])
