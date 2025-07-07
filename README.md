@@ -38,8 +38,8 @@ Tested using Windows PowerShell and Python 3.10.
 The program:
 1. Prompts for user input on:
    - City (Chicago, New York City, Washington)
-   - Month (January through June, or All)
-   - Day of week (Monday through Sunday, or All)
+   - Month (January through June, or all)
+   - Day of week (Monday through Sunday, or all)
 2. Optionally displays raw data, 5 rows at a time
 3. Displays key statistics:
    - Most common month, day, and start hour
